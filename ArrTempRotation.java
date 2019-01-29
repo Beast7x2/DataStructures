@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/* Array rotation using temp variable o(d * n) */
 public class ArrTempRotation {
 
 	public static void main(String[] args) {
