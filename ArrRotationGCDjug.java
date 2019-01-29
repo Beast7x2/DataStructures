@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/* Array rotation using juggling method time complexity O(N) */
 public class ArrRotationGCDjug {
 
 	public static void main(String[] args) {
