@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/* Array Rotation using Reversal method time complexity O(n) */
+/* d + n-d + n ==> 2n ==> O(N) */
 public class ArrayRotationReversal {
 
 	public static void main(String[] args) {
