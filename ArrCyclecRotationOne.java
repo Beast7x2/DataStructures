@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+/* Array reverse rotation by one position time complexity O(N) */
 public class ArrCyclecRotationOne {
 
 	public static void main(String[] args) {
