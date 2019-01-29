@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /* Search an element in a sorted and rotated array */
+/* since this is using binary search tree the complexity is O(logn) */
 public class ArrFindSortRotate {
 
 	public static void main(String[] args) {
